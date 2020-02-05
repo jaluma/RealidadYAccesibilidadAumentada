@@ -1,0 +1,9 @@
+[submodule "RAA-BotanicGarden"]
+	path = RAA-BotanicGarden
+	url = https://github.com/jaluma/RAA-BotanicGarden.git
+[submodule "RAA-AugmentedRealityAPP"]
+	path = RAA-AugmentedRealityAPP
+	url = https://github.com/jaluma/RAA-AugmentedRealityAPP.git
+[submodule "BlackPidgeon"]
+	path = BlackPidgeon
+	url = https://github.com/jaluma/BlackPidgeon.git
